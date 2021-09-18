@@ -1,0 +1,22 @@
+{
+  "name": "08-websocket-server",
+  "version": "1.0.0",
+  "description": "websocket con socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "websocket",
+    "socket"
+  ],
+  "author": "Kevin Alexander Peñaranda Soto",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0"
+  }
+}
